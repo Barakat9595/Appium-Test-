@@ -1,0 +1,4 @@
+username;password;expectedError
+locked_out_user;secret_sauce;Sorry, this user has been locked out.
+standard_user;;Password is required
+;secret_sauce;Username is required
